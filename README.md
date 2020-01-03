@@ -1,5 +1,5 @@
 # Tech Fest Website
-Website for Annua Tech Fest for 3 days at DITE [Delhi Institute of Tool Engineering]
+Website for Annual Tech Fest for 3 days at DITE [Delhi Institute of Tool Engineering]
 
 # Aim
 - To make aesthetic website with latest minimislistic animations and transitions
