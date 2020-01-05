@@ -14,7 +14,7 @@ Website for Annual Tech Fest for 3 days at DITE [Delhi Institute of Tool Enginee
   - Backend implementation of collecting registrations and sending Auto E-mails and stuff
   - Chat bot implementation in whatsapp and telegram for instant help and registration
   - Both extremly compatible for mobile and web
-  - Should be hybrid for App [IOS + IOS]
+  - Should be hybrid for App [IOS + Android]
   - Capable for team members login and helping/scheduling their particulars and events
   
 ![](https://github.com/ENNOGY/ENNOGY.github.io/blob/master/logo-ennogy.png)
