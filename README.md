@@ -19,5 +19,5 @@ Website for Annual Tech Fest for 3 days at DITE [Delhi Institute of Tool Enginee
   
 ## Resources
 You can Find other college event websites here, which I gathered from github only! 
-(Here!)[https://github.com/ENNOGY/ENNOGY.github.io/releases/tag/v0.1]
+[Here!](https://github.com/ENNOGY/ENNOGY.github.io/releases/tag/v0.1)
 ![](https://github.com/ENNOGY/ENNOGY.github.io/blob/master/logo-ennogy.png)
